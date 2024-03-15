@@ -1,0 +1,5 @@
+Survey with ideas: Shiwen Wu, Fei Sun, Wentao Zhang, Xu Xie, and Bin Cui. 2022. Graph Neural Networks in Recommender Systems: A Survey. ACM Comput. Surv. 55, 5, Article 97 (December 2022), 37 pages. https://doi.org/10.1145/3535101 
+
+Inspiration: DOI 10.1109/MLBDBI58171.2022.00078
+
+Negative Samples: https://doi.org/10.1145/3447548.3467408
